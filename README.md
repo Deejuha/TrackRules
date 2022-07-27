@@ -7,7 +7,7 @@ Tool may be useful for officials.
 
 [World Athletic rule books](https://www.worldathletics.org/about-iaaf/documents/book-of-rules)
 updates in irregular way, also there is no alternative way to get all of those documents updated
-than check and click all of those documents.
+than check and click all of those documents separately in website.
 
 ## How it works?
 
